@@ -115,7 +115,7 @@ nav {
 
 h1, h2{
 	font-family: segoe script; /* Font pour titre : Copperplate Gothic , ; */
-	text-transform: capitalize;
+	/*text-transform: capitalize; */
 }
 
 p{
